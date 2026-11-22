@@ -1,0 +1,5 @@
+*.asv
+matlab/figures/
+matlab/animation/
+matlab/*.mat
+__pycache__/
